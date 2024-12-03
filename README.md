@@ -13,17 +13,17 @@ This is an important question for these firms to ask because with our visualizat
 
 Manipulations: NONE
 
-Visualization #1:
+Visualization #1: :![image 1](https://github.com/user-attachments/assets/ff1215dd-213f-4f18-8d18-976d8994f06f)
 
-image
+
 
 Explanation for Visualization #1:
 
+
+
 For all three firms, we see a positive correlation between wagers placed and total gross gaming revenue. This was expected; however, we can see that CT Lottery Corp takes in the least number of wagers per month by far, explaining their lower levels of revenue. Mohegan Digital LLC and MPI Master Wagering License show similar numbers, although we can see that Mohegan has had the highest number of wagers in one month across the three firms, topping out at just over 98 million wagers in December of 2023.
 
-Visualization #2:
-
-image
+Visualization #2: ![image 2](https://github.com/user-attachments/assets/5f365913-f7ee-42e1-adb1-0bb960bf2bc8)
 
 Explanation for Visualization #2:
 
